@@ -15,7 +15,16 @@ let cars ={
 
 
 let fruits = ["Apple", "Orange", "Mango"];
-fruits.push("Mango");
+fruits.push("kiwi");
 console.log(fruits);
 
 
+
+fruits.pop()
+console.log(fruits);
+
+fruits.shift()
+console.log(fruits);
+
+fruits.splice(0,1, 'kiwi', 'egg', 'apple')
+console.log(fruits);
