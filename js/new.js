@@ -19,10 +19,10 @@
 // // console.log(fruits);
 
 
-// // for (let i = 0; i < 5; i++) {
-// //     console.log(i)
+ for (let i = 0; i < 5; i++) {
+     console.log(i)
     
-// // }
+}
 
 // // let noFruit = 1;
 // // while (noFruit < 5) {
