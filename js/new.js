@@ -65,3 +65,6 @@ let ageOf = 18;
 if(ageOf > 17) {
     console.log("You are an adult");
 }
+
+let age = 18 ? "You're an adult" : "You're a child";
+console.log(age)
